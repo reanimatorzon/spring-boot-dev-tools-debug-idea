@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Remote DevTools 8080" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="org.springframework.boot.devtools.RemoteSpringApplication" />
+    <module name="demo.main" />
+    <option name="PROGRAM_PARAMETERS" value="http://localhost:8080/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+    </method>
+  </configuration>
+</component>
